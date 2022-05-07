@@ -1,0 +1,84 @@
+************************
+Pruning Step : 0
+Number of nodes in the tree: 3443
+************************
+
+************************
+Pruning Step : 1
+Number of nodes in the tree: 3325
+************************
+
+************************
+Pruning Step : 2
+Number of nodes in the tree: 3319
+************************
+
+************************
+Pruning Step : 3
+Number of nodes in the tree: 3289
+************************
+
+************************
+Pruning Step : 4
+Number of nodes in the tree: 3273
+************************
+
+************************
+Pruning Step : 5
+Number of nodes in the tree: 3268
+************************
+
+************************
+Pruning Step : 6
+Number of nodes in the tree: 3228
+************************
+
+************************
+Pruning Step : 7
+Number of nodes in the tree: 3190
+************************
+
+************************
+Pruning Step : 8
+Number of nodes in the tree: 3168
+************************
+
+************************
+Pruning Step : 9
+Number of nodes in the tree: 3156
+************************
+
+************************
+Pruning Step : 10
+Number of nodes in the tree: 3134
+************************
+
+************************
+Pruning Step : 11
+Number of nodes in the tree: 3118
+************************
+
+************************
+Pruning Step : 12
+Number of nodes in the tree: 3106
+************************
+
+************************
+Pruning Step : 13
+Number of nodes in the tree: 3104
+************************
+
+************************
+Pruning Step : 14
+Number of nodes in the tree: 3088
+************************
+
+************************
+Pruning Step : 15
+Number of nodes in the tree: 3056
+************************
+
+************************
+Pruning Step : 16
+Number of nodes in the tree: 3054
+************************
